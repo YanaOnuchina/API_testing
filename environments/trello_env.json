@@ -1,0 +1,22 @@
+{
+	"id": "2d2f7799-0807-473d-ad4b-a0a90beba2de",
+	"name": "trello_api_test_project",
+	"values": [
+		{
+			"key": "trello_key",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "trello_token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-02-16T08:25:09.233Z",
+	"_postman_exported_using": "Postman/11.84.5"
+}
